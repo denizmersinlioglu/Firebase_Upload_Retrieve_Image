@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "990517242121",
+    "firebase_url": "https://captureimagefirebase.firebaseio.com",
+    "project_id": "captureimagefirebase",
+    "storage_bucket": "captureimagefirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990517242121:android:82aabb7f58e7019f",
+        "android_client_info": {
+          "package_name": "com.ggg.denizmersinlioglu.captureimage_firebasestorage_retrieveimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990517242121-dihqsl0he5r35mhb1uaa7gehs2is0a7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ggg.denizmersinlioglu.captureimage_firebasestorage_retrieveimage",
+            "certificate_hash": "3b0378cd6ef0cac0f97d9bd7b23f4537f36a9567"
+          }
+        },
+        {
+          "client_id": "990517242121-ivsf24irill94ftlhnot205dpnfl1id7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkVIeVO11PxaD6rNalMzZWgiOS6sHMgEw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990517242121-ivsf24irill94ftlhnot205dpnfl1id7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
